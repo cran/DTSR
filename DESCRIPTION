@@ -1,6 +1,6 @@
 Package: DTSR
-Version: 0.1.0
-Date: 2024-10-22
+Version: 0.2.0
+Date: 2025-04-25
 Type: Package
 Title: Distributed Trimmed Scores Regression for Handling Missing Data
 Authors@R: c(person("Guangbao", "Guo", role = c("aut", "cre", "cph"),
@@ -18,5 +18,5 @@ Repository: CRAN
 Imports: stats, mvdalab, DMwR2, cluster, MASS
 RoxygenNote: 7.3.2
 NeedsCompilation: no
-Packaged: 2024-11-06 08:37:30 UTC; ASUS
-Date/Publication: 2024-11-08 14:30:06 UTC
+Packaged: 2025-04-25 14:45:30 UTC; R7000
+Date/Publication: 2025-04-27 04:40:02 UTC
